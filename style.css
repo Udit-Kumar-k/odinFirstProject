@@ -1,0 +1,39 @@
+body{
+    font-family: ;
+    margin: 0px;
+    min-height: 100vh;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F1BF98;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.left{
+    font-family:;
+    font-size: ;
+}
+.right{
+    font-family:;
+    color:;
+    font-weight: ;
+    font-size: ;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+.sec1{
+    display: flex;
+}
+
